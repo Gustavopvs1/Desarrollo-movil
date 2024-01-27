@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\bin\Debug\net8.0\PingPong.Core.deps.json
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\bin\Debug\net8.0\PingPong.Core.dll
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\bin\Debug\net8.0\PingPong.Core.pdb
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\obj\Debug\net8.0\PingPong.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\obj\Debug\net8.0\PingPong.Core.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\obj\Debug\net8.0\PingPong.Core.AssemblyInfo.cs
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\obj\Debug\net8.0\PingPong.Core.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\obj\Debug\net8.0\PingPong.Core.dll
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\obj\Debug\net8.0\refint\PingPong.Core.dll
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\obj\Debug\net8.0\PingPong.Core.pdb
+C:\Users\rober\source\repos\ConsoleApp1\PingPong.Core\obj\Debug\net8.0\ref\PingPong.Core.dll
